@@ -20,8 +20,6 @@ I\`m Frontend developer 👨‍💻
 
 <p align="left"> <a href="https://t.me/iameemilia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/85ca61af-6fd7-4e7c-91b1-07fd65718b4b" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0cd943a6-8105-44bf-83d9-ea04c3e73542" /> <img src="https://github.com/user-attachments/assets/0cd943a6-8105-44bf-83d9-ea04c3e73542" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/iameemilia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-![image](https://github.com/user-attachments/assets/85ca61af-6fd7-4e7c-91b1-07fd65718b4b)
-
 
 ### Badges
 
